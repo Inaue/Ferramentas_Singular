@@ -29,6 +29,14 @@ Caso haja arquivos de entrada e saída:
 $ Singular -q exp_mod/exp_mod < exp_mod/entrada > exp_mod/saida
 ```
 
+## Estrutura dos diretórios
+
+Cada aplicativo tem um diretório próprio no qual constam os seguintes arquivos:
+
+* Aplicativo
+* Arquivo de entrada possível
+* Arquivo de saída associado à respectiva entrada
+
 ## Contribuindo para Ferramentas_Singular
 
 Para contribuir com Ferramentas_Singular, siga estas etapas:
