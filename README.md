@@ -1,7 +1,7 @@
 # Ferramentas_Singular
 Repositório para algoritmos implementados para o sistema algébrico [Singular](https://www.singular.uni-kl.de).
 
-# Nome do projeto
+# Ferramentas_Singular
 
 ![Sistema de Computação Algébrica Singular](https://www.ubuntupit.com/wp-content/uploads/2019/06/singular.jpg)
 
