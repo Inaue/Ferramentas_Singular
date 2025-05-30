@@ -5,7 +5,7 @@ Repositório para algoritmos implementados para o sistema algébrico [Singular](
 
 ![Sistema de Computação Algébrica Singular](https://www.ubuntupit.com/wp-content/uploads/2019/06/singular.jpg)
 
-> Esse repositório é uma coleção de *scripts* para o Singular, principalmente para fins de aprendizado aos inicientes no uso desse software.
+> Esse repositório é uma coleção de *scripts* para o Singular, principalmente para fins de aprendizado aos iniciantes no uso desse software.
 
 ## Pré-requisitos
 
