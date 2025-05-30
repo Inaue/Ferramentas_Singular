@@ -10,7 +10,7 @@
 ring racionais_MCs = QQ, (x), Dp;
 setring racionais_MCs;
 
-// DESCRICAO.  : Minimo entre dois numeros inteiros.
+// DESCRICAO   : Minimo entre dois numeros inteiros.
 // PARAMETRO a : primeiro numero inteiro
 // PARAMETRO b : segundo numero inteiro
 // RETORNO     : menor numero inteiro entre a e b
